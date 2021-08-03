@@ -1,0 +1,11 @@
+{
+ "name": "AresCoin",
+ "website": "http://www.arescoin.co",
+ "description": "-",
+ "explorer": "https://tronscan.io/#/token20/TUjL2X1fUjyDf3eVsJQKhd6zFPxNngH3tN",
+ "type": "TRC20",
+ "symbol": "ARES",
+ "decimals": 4,
+ "status": "active",
+ "id": "TUjL2X1fUjyDf3eVsJQKhd6zFPxNngH3tN"
+}
